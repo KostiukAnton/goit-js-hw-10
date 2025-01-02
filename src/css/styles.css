@@ -169,7 +169,6 @@ fieldset:hover {
   background: #6c8cff;
 }
 
-.iziToast-close {
-  color: #fff;
-  /* Вкажіть бажаний колір */
+.iziToast {
+  width: 383px !important;
 }
